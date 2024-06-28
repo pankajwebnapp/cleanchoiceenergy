@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@emailjs/browser": "^4.3.3",
+    "jquery": "^3.7.1",
+    "react-countup": "^6.5.3",
+    "react-hook-form": "^7.52.0",
+    "react-slick": "^0.30.2",
+    "slick-carousel": "^1.8.1"
+  }
+}
